@@ -1,8 +1,8 @@
 # Ascenseur
 
-##Ouvrir le terminal
+## Ouvrir le terminal
 
-###Cloner le repo
+### Cloner le repo
 
 NPM INSTALL
 
