@@ -1,1 +1,5 @@
 # Ascenseur
+
+NPM INSTALL
+
+NPM START
